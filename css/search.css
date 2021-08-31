@@ -1,0 +1,33 @@
+
+@font-face {
+  font-family: Sriracha;
+  src: url(../front/Sriracha-Regular.ttf);
+}
+@font-face {
+  font-family: HinaMincho;
+  src: url(../front/HinaMincho-Regular.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #ed64a6;
+}
+.header .logo {
+  width: 150px;
+}
+.header .nav {
+  color: white;
+  font-family: HinaMincho;
+  font-size: 20px;
+}
+.article {
+  background-color: #f2f2f2;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+}
+
