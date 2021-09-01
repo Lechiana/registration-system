@@ -15,6 +15,11 @@
 
 .header {
   background-color: #ed64a6;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
 }
 .header .logo {
   width: 150px;
@@ -28,5 +33,6 @@
 .article{
   font-family: Sriracha;
   font-size: 18;
+  margin-top: 2rem;
 }
 
