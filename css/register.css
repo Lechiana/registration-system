@@ -1,10 +1,11 @@
 
 @font-face {
-  font-family: Sriracha;
+  font-family: Sriracha; /* Thai */
   src: url(../front/Sriracha-Regular.ttf);
 }
+
 @font-face {
-  font-family: HinaMincho;
+  font-family: HinaMincho; /* English */
   src: url(../front/HinaMincho-Regular.ttf);
 }
 * {
@@ -23,11 +24,9 @@
   font-family: HinaMincho;
   font-size: 20px;
 }
-.article {
-  background-color: #f2f2f2;
-  width: 70%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 5px;
+
+.article{
+  font-family: Sriracha;
+  font-size: 18;
 }
 
