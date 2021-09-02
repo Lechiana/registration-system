@@ -45,5 +45,9 @@
 }
 footer {
   margin-top: 8rem;
+  background-color:  #ed64a6;
+  color: white;
+  font-family: Sriracha;
+  font-size: 16px;
 }
 

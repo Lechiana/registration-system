@@ -62,3 +62,10 @@
   border-style: groove;
 }
 
+footer {
+  background-color:  #ed64a6;
+  color: white;
+  font-family: Sriracha;
+  font-size: 16px;
+  margin-top: 4rem;
+}
